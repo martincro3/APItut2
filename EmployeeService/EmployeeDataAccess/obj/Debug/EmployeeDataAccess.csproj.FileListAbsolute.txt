@@ -1,0 +1,10 @@
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\C#\Projekti\APItut2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
